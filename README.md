@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0605-can-place-flowers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
