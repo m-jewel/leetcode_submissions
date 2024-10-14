@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -38,4 +39,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
