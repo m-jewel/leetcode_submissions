@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
 ## Matrix
 |  |
@@ -51,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
