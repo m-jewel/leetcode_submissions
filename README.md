@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
@@ -70,5 +72,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
