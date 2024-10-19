@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0735-asteroid-collision) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
