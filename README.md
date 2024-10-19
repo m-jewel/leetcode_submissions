@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1894-merge-strings-alternately) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0649-dota2-senate) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
