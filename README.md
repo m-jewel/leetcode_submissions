@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0494-target-sum) |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
