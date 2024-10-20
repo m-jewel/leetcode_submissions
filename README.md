@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1130-last-stone-weight-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1319-unique-number-of-occurrences) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1236-n-th-tribonacci-number) |
