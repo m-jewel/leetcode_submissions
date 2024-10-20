@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0518-coin-change-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1130-last-stone-weight-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -121,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
