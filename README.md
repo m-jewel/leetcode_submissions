@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0394-decode-string) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
