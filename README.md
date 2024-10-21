@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0443-string-compression) |
@@ -13,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0115-distinct-subsequences) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0115-distinct-subsequences) |
