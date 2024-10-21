@@ -1,48 +1,38 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int n = s.length();
-
-        if(n == 0){
+        if (s == null || s.length() == 0) {
             return "";
         }
 
-        boolean[][] dp = new boolean[n][n];
-
-        int maxLength = 1;
-        int start = 0;
-
-        // Base Cases:
-        // Any single character is a palindrome by itself, so dp[i][i] = true.
-        for(int i = 0; i < n; i++){
-            dp[i][i] = true;
-        }
-
-        // Two consecutive equal characters are also palindromes, so for every i, if s[i] == s[i + 1], then dp[i][i + 1] = true.
-        for(int i = 0; i < n - 1; i++){
-            if(s.charAt(i) == s.charAt(i + 1)){
-                dp[i][i + 1] = true;
-                start = i;
-                maxLength = 2;
+        int start = 0, end = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            // Expand for odd-length palindrome (centered at i)
+            int len1 = expandAroundCenter(s, i, i);
+            // Expand for even-length palindrome (centered between i and i+1)
+            int len2 = expandAroundCenter(s, i, i + 1);
+            
+            // Get the longer palindrome between the odd and even cases
+            int len = Math.max(len1, len2);
+            
+            // Update the start and end indices of the longest palindrome found
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
         }
 
-        // Check for palindromes of length greater than 2
-        for (int len = 3; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1; // Ending index of the substring
-                
-                // Check if the first and last characters are the same and if the substring inside them is also a palindrome. If both conditions are true, the current substring is a palindrome.
-                if (s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    
-                    if (len > maxLength) {
-                        start = i;
-                        maxLength = len;
-                    }
-                }
-            }
-        }
+        return s.substring(start, end + 1);
+    }
 
-        return s.substring(start, start + maxLength);
+    // Helper function to expand around the center and find the length of the palindrome
+    private int expandAroundCenter(String s, int left, int right) {
+        // Expand as long as the characters on the left and right are the same
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        
+        return right - left - 1;
     }
 }
