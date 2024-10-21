@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0334-increasing-triplet-subsequence) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0474-ones-and-zeroes) |
