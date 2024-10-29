@@ -143,8 +143,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
+| [0871-keys-and-rooms](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0871-keys-and-rooms) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1236-n-th-tribonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
