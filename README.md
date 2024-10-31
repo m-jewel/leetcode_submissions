@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -154,11 +155,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/m-jewel/leetcode_sumbissions/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/m-jewel/leetcode_sumbissions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
